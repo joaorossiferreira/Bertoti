@@ -29,10 +29,10 @@ Foco inicial em domínios específicos para validação do conceito:
 
 | Integrante       | LinkedIn | GitHub |
 |------------------|----------|--------|
-| **Eduardo Fontes** | [🔗 Perfil](https://www.linkedin.com/in/eduardo-da-silva-fontes/) | [💻 Eduardo Fontes](https://github.com/DuuhZero) |
-| **João França**    | [🔗 Perfil](https://www.linkedin.com/in/joão-pedro-frança-alves-de-souza-8700a62b3/) | [💻 João França](https://github.com/jofran2001) |
-| **João Rossi**     | [🔗 Perfil](https://www.linkedin.com/in/joão-rossi-7311a0301/) | [💻 João Rossi](https://github.com/joaorossiferreira) |
-| **Paulo Almeida**  | [🔗 Perfil](https://www.linkedin.com/in/paulo-almeida-3102452a7/) | [💻 Paulo Almeida](https://github.com/pauloalmeida46) |
+| **Eduardo Fontes** | [🔗 Perfil](https://www.linkedin.com/in/eduardo-da-silva-fontes/) | [💻 DuuhZero](https://github.com/DuuhZero) |
+| **João França**    | [🔗 Perfil](https://www.linkedin.com/in/joão-pedro-frança-alves-de-souza-8700a62b3/) | [💻 jofran2001](https://github.com/jofran2001) |
+| **João Rossi**     | [🔗 Perfil](https://www.linkedin.com/in/eduardo-da-silva-fontes/) | [💻 DuuhZero](https://github.com/DuuhZero) |
+| **Paulo Almeida**  | [🔗 Perfil](https://www.linkedin.com/in/paulo-almeida-3102452a7/) | [💻 pauloalmeida46](https://github.com/pauloalmeida46) |
 
 ---
 

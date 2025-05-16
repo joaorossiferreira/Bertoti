@@ -7,11 +7,12 @@ def create_interface():
     examples = [
         "Se o cliente for VIP, frete grátis",
         "Aplicar 20% de desconto para compras acima de R$ 1000",
-        "Se hora > 18:00, cobrar taxa noturna"
+        "Se hora > 18:00, cobrar taxa noturna",
+        "Acima de 10 produtos, adicionar desconto de 10% acumulativo a cada 10 produtos"
     ]
     
     with gr.Blocks(theme=gr.themes.Soft(), title="Conversor de Regras") as interface:
-        gr.Markdown("""<h1><center>🛠️ Conversor de Regras para Python</center></h1>""")
+        gr.Markdown("""<h1><center>🛠️ Conversor de Regras de Negócio para Python</center></h1>""")
         
         with gr.Row():
             with gr.Column():
